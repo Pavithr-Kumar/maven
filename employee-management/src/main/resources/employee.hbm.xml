@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping>
+<class name="com.zettamine.dto.Employee" table="emp">
+<id name="empNo" column="empno">
+<generator class="assigned" />
+</id>
+<property name="empName" column="emp_name" />
+<property name="deptNo" column="deptno" />
+<property name="sal" column="sal" />
+
+</class>
+
+</hibernate-mapping>

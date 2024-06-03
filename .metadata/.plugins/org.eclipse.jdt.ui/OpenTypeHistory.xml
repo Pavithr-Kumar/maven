@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=01.maven.app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zettamine.mis.services{UserServices.java[UserServices" modifiers="1" timestamp="1702977431677"/>
+    <typeInfo handle="=employee-management/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zettamine.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1703137113456"/>
+    <typeInfo handle="=employee-management/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zettamine.services{EmployeeServices.java[EmployeeServices" modifiers="513" timestamp="1703137242481"/>
+    <typeInfo handle="=avg-rainfall/C:\/Users\/Pavithra Kumar\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1698463890000"/>
+    <typeInfo handle="=avg-rainfall/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zettamine.dao{RainfallDAO.java[RainfallDAO" modifiers="513" timestamp="1703402512705"/>
+</typeInfoHistroy>

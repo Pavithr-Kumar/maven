@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.zettamine.mis.services&apos; to &apos;04.maven.app/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;01.maven.app&apos;&#x0D;&#x0A;- Destination element: &apos;04.maven.app/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;01.maven.app/src/main/java/com.zettamine.mis.services&apos;" description="Copy package" destination="=04.maven.app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zettamine.mis.services" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1703048841069" version="1.0"/>
+</session>

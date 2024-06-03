@@ -1,0 +1,43 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.zettamine</groupId>
+  <artifactId>05.maven.app</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>MavenAppWithExernalDependencies</name>
+  <description>This maven app is to create a executable jar filw iwth external dependencies</description>
+  <dependencies>
+		<dependency>
+			<groupId>com.zettamine</groupId>
+			<artifactId>encoder-decoder</artifactId>
+			<version>1.0</version>
+
+		</dependency>
+
+	</dependencies>
+  <build>
+	  <finalName>
+		  zettaapp
+	  </finalName>
+	  <plugins>
+		  <plugin>
+			  <!-- Build an executable jar file with dependencies-->
+			  <groupId>org.apache.maven.plugins</groupId>
+			  <artifactId>maven-assembly-plugin</artifactId>
+			  <version>3.3.0</version>
+			<configuration>
+				<archive>
+					<manifest>
+						<mainClass>com.zettamine.MainClass</mainClass>
+					</manifest>
+				</archive>
+				<descriptorRefs>
+					<descriptorRef>
+						jar-with-dependencies
+					</descriptorRef>
+				</descriptorRefs>
+			</configuration>
+		  </plugin>
+	  </plugins>
+  </build>
+  
+</project>

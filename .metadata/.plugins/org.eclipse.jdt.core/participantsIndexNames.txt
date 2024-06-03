@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\Pavithr Kumar\java\maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2833589560.index
+\sample\src\main\resources

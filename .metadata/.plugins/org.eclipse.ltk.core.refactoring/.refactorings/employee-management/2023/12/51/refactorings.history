@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;scan&apos; in &apos;com.zettamine.services.EmployeeServicesImpl.delEmp(...)&apos; to &apos;sc&apos;&#x0D;&#x0A;- Original project: &apos;employee-management&apos;&#x0D;&#x0A;- Original element: &apos;com.zettamine.services.EmployeeServicesImpl.delEmp(int).scan&apos;&#x0D;&#x0A;- Renamed element: &apos;scan&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;scan&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.zettamine.services{EmployeeServicesImpl.java[EmployeeServicesImpl~delEmp~I@scan!753!790!761!764!QScanner;!0!false" name="sc" references="true" stamp="1703147301501" version="1.0"/>
+</session>

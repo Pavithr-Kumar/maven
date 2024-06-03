@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Pavithr Kumar\java\maven\hibernate-app04"/>
+			<item value="D:\Pavithr Kumar\java\maven\hibernate-app02"/>
+			<item value="D:\Pavithr Kumar\java\maven\hibernate-app01"/>
+			<item value="D:\Pavithr Kumar\java\maven\servlets-demo"/>
+			<item value="D:\Pavithr Kumar\java\maven\05.maven.app"/>
+			<item value="D:\Pavithr Kumar\java\maven\avg-rainfall"/>
+			<item value="D:\Pavithr Kumar\java\maven\sample"/>
+			<item value="D:\Pavithr Kumar\java\maven\employee-management"/>
+			<item value="D:\Pavithr Kumar\java\maven\04.maven.app"/>
+			<item value="D:\Pavithr Kumar\java\maven\01.maven.app"/>
+			<item value="D:\Pavithr Kumar\java\maven\02.maven.app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.zetta"/>
+			<item value="com.zettamine"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="hibernate-mapping"/>
+			<item value="hibernate-app03"/>
+			<item value="hibernate-app02"/>
+			<item value="hibernate-app01"/>
+			<item value="zetta-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Pavithr Kumar\java\maven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

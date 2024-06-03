@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;encoder-decoder&apos; to &apos;02.maven.app&apos;" description="Rename resource &apos;encoder-decoder&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/encoder-decoder" name="02.maven.app" stamp="1702983868868" updateReferences="true"/>
+</session>

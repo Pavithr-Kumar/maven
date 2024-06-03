@@ -1,0 +1,28 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.zettamine</groupId>
+  <artifactId>04.maven.app</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>MavenProjectWithoutDependencies</name>
+  <description>It Uses two classes and one main class, it does not use external dependencies</description>
+  <build>
+	  <finalName>
+		  myapp
+	  </finalName>
+	  <plugins>
+		  <plugin>
+			  <!-- Build an executable jar file-->
+			  <groupId>org.apache.maven.plugins</groupId>
+			  <artifactId>maven-jar-plugin</artifactId>
+			  <version>3.3.0</version>
+			<configuration>
+				<archive>
+					<manifest>
+						<mainClass>com.zettamine.mis.services.MainApp</mainClass>
+					</manifest>
+				</archive>
+			</configuration>
+		  </plugin>
+	  </plugins>
+  </build>
+</project>

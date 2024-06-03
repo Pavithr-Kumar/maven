@@ -1,0 +1,13 @@
+1703395408479	Copy package
+1703395414397	Delete element
+1703395449236	Rename package 'com.zettamine.DAO'
+1703395608634	Delete element
+1703396306471	Copy file
+1703396314851	Copy file
+1703396320393	Delete element
+1703396436905	Delete element
+1703399444032	Copy compilation unit
+1703400066602	Rename local variable 'avgRainfallList'
+1703402682140	Rename type 'RainfallReports'
+1703403337103	Rename type 'RainfallReportsServices'
+1703403353685	Extract interface 'RainfallReportsServices'

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-configuration>
+
+	<session-factory>
+		<!-- DB Connection settings -->
+		<property name="connection.driver_class">org.postgresql.Driver</property>
+		<property name="connection.url">jdbc:postgresql://localhost:5432/sample_db
+		</property>
+		<property name="connection.username">postgres</property>
+		<property name="connection.password">Root@123</property>
+		
+		<!-- Hibernate propeties -->
+		<property name="dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+		<property name="show_sql">true</property>
+		<property name="hbm2ddl.auto">create</property>
+		
+		<!-- mapping resource details -->
+		
+		<mapping class="com.zm.ems.entities.Employee"/>
+		<mapping class="com.zm.ems.entities.Address"/>
+		
+	</session-factory>
+</hibernate-configuration>

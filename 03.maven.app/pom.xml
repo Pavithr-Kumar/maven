@@ -1,0 +1,20 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.zettamine</groupId>
+	<artifactId>03.maven.app</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>EncodeAndDecodeData</name>
+	<description>This project uses encode and decode dependency created in 0.2
+		maven app</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.zettamine</groupId>
+			<artifactId>encoder-decoder</artifactId>
+			<version>1.0</version>
+
+		</dependency>
+
+	</dependencies>
+</project>
